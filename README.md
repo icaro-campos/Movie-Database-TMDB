@@ -12,6 +12,6 @@ Aplicativo para estudos de vários conceitos Android, o que mostra os filmes "Po
 - Paginação: Uso da bibliotea Paging para lindar com a paginação dos elementos.
 - Navigation: Uso da biblioteca Navigation Compose para lidar com a navegação entre telas.
 
-###APK para instalação
+APK para instalação
 
 - Realizar download do APK [Download APK](https://github.com/icaro-campos/Movie-Database-TMDB/blob/master/Movie-tmdb.apk)
