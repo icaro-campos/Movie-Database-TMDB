@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="image_description">Image</string>
+    <string name="search_for_a_movie">Search for a movie...</string>
+    <string name="search_icon_description">Search Icon</string>
+    <string name="welcome">Welcome</string>
+    <string name="view_all">View all</string>
+    <string name="description_arrow_forward">Arrow Forward</string>
+    <string name="type_popular">Popular</string>
+    <string name="type_now_playing">Now Playing</string>
+    <string name="type_upcoming">Upcoming</string>
+    <string name="type_top_rated">Top Rated</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="image_description">Imagem</string>
+    <string name="search_for_a_movie">Procure por um filme…</string>
+    <string name="search_icon_description">Ícone de busca</string>
+    <string name="welcome">Bem-vindo(a)</string>
+    <string name="view_all">Ver todos</string>
+    <string name="description_arrow_forward">Flecha para frente</string>
+    <string name="type_popular">Popular</string>
+    <string name="type_now_playing">Em cartaz</string>
+    <string name="type_upcoming">Em breve</string>
+    <string name="type_top_rated">Mais curtidos</string>
+</resources>
