@@ -14,4 +14,4 @@ Aplicativo para estudos de vários conceitos Android, o que mostra os filmes "Po
 
 APK para instalação
 
-- Realizar download do APK [Download APK]([https://github.com/icaro-campos/Movie-Database-TMDB/blob/master/Movie-tmdb.apk](https://github.com/icaro-campos/Movie-Database-TMDB/raw/master/Movie-tmdb.apk)https://github.com/icaro-campos/Movie-Database-TMDB/raw/master/Movie-tmdb.apk)
+- Realizar download do APK [Download APK](https://github.com/icaro-campos/Movie-Database-TMDB/raw/master/Movie-tmdb.apk)
